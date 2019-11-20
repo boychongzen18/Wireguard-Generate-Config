@@ -13,7 +13,7 @@ Link Download WireGuard For Android : https://apkpure.com/id/wireguard/com.wireg
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : 
+Link Tutorial : https://youtu.be/7CuJi0alQYY
 
 My Website    : https://hackingforlive.wordpress.com
 
