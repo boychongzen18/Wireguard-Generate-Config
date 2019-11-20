@@ -9,6 +9,8 @@
 
 Link Download Termux For Android : https://apkpure.com/termux/com.termux
 
+Link Download WireGuard For Android : https://apkpure.com/id/wireguard/com.wireguard.android
+
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
 Link Tutorial : 
