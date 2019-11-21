@@ -11,7 +11,7 @@ Creator Boychongzen aka Xroot
 3. Install Paket Termux 
 
     termux-setup-storage
-    pkg upgrade && upgrade
+    pkg upgrade && pkg upgrade
     pkg install python
     pkg install wireguard-tools
     pkg install git
