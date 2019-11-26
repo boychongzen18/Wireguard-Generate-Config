@@ -22,6 +22,7 @@ Creator Boychongzen aka Xroot
    git clone https://github.com/boychongzen18/Wireguard-Generate-Config.git
 
 5.Eksekusi Script Via Python
+   chmod 777 wg.py
    python wg.py
 
 6.Copy Config 
