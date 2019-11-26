@@ -10,12 +10,10 @@ Creator Boychongzen aka Xroot
 2. Install Wireguard For Android 
 3. Install Paket Termux 
 
-    termux-setup-storage
-    pkg upgrade && pkg upgrade
-    pkg install python
-    pkg install wireguard-tools
-    pkg install git
-    pkg install wget
+    termux-setup-storage -y
+    pkg upgrade && pkg upgrade -y
+    pkg install python git wgwt php nano -y
+    pkg install wireguard-tools -y
     pip install requests
 
 4.Download Script 
